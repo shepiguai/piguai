@@ -16,3 +16,5 @@ pull-all.sh
 *.bak
 *.bk
 expect.sh
+yarn.lock
+package-lock.json
